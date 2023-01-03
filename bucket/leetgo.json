@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0-alpha.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/j178/leetgo/releases/download/v0.1.0-alpha.3/leetgo_Windows_x86_64.zip",
+            "bin": [
+                "leetgo.exe"
+            ],
+            "hash": "79f205c1e34fe345abac11b264fc66eafde326015f0cb47284484a67cf1edefd"
+        }
+    },
+    "homepage": "https://github.com/j178/leetgo",
+    "license": "MIT",
+    "description": "leetgo is a command line tool for leetcode.com. It can help you to login, submit, test, and view your submissions."
+}
