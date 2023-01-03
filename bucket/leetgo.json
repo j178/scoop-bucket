@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0-alpha.3",
+    "version": "0.1.0-alpha.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/j178/leetgo/releases/download/v0.1.0-alpha.3/leetgo_Windows_x86_64.zip",
+            "url": "https://github.com/j178/leetgo/releases/download/v0.1.0-alpha.4/leetgo_Windows_x86_64.zip",
             "bin": [
                 "leetgo.exe"
             ],
-            "hash": "79f205c1e34fe345abac11b264fc66eafde326015f0cb47284484a67cf1edefd"
+            "hash": "0f48d3c7eeb1fe1be2bfca6462479dc9920ef6c82123aa27c240b80d0301310c"
         }
     },
     "homepage": "https://github.com/j178/leetgo",
