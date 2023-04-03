@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/j178/chatgpt/releases/download/v1.0.1/chatgpt_Windows_x86_64.zip",
+            "url": "https://github.com/j178/chatgpt/releases/download/v1.0.2/chatgpt_Windows_x86_64.zip",
             "bin": [
                 "chatgpt.exe"
             ],
-            "hash": "36172a2affb2a77c66503b43b8e6b0158b7873934393da792ade799161ae55ed"
+            "hash": "327b846bcd183e5df04adf27067404c7246286984fb8f012180129eabc4284e6"
         }
     },
     "homepage": "https://github.com/j178/chatgpt",
