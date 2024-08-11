@@ -1,19 +1,19 @@
 {
-    "version": "1.4.7",
+    "version": "1.4.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/j178/leetgo/releases/download/v1.4.7/leetgo_windows_x86_64.zip",
+            "url": "https://github.com/j178/leetgo/releases/download/v1.4.8/leetgo_windows_x86_64.zip",
             "bin": [
                 "leetgo.exe"
             ],
-            "hash": "2942ca46cbf092c9498dbdccbc8ce1b20711ef11943e3a3bafc6a7f19c46d8f9"
+            "hash": "c040bde9e5f395a0c29cf3ed52421e980f5ac07f44eda5bd1a198d56cd360154"
         },
         "arm64": {
-            "url": "https://github.com/j178/leetgo/releases/download/v1.4.7/leetgo_windows_arm64.zip",
+            "url": "https://github.com/j178/leetgo/releases/download/v1.4.8/leetgo_windows_arm64.zip",
             "bin": [
                 "leetgo.exe"
             ],
-            "hash": "118789b3b9f964152f37962460a9b643b308c674c6c6af5d65a83b81b61441d7"
+            "hash": "1be67ff056882e6e1f3d71731e29f0ef249416820028bff57b894ae010a162e0"
         }
     },
     "homepage": "https://github.com/j178/leetgo",
