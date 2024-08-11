@@ -6,14 +6,14 @@
             "bin": [
                 "leetgo.exe"
             ],
-            "hash": "c040bde9e5f395a0c29cf3ed52421e980f5ac07f44eda5bd1a198d56cd360154"
+            "hash": "a8bfe2ba15144fbbcc6deaa94f5909db87a64c003e3637c6a1970c500254091f"
         },
         "arm64": {
             "url": "https://github.com/j178/leetgo/releases/download/v1.4.8/leetgo_windows_arm64.zip",
             "bin": [
                 "leetgo.exe"
             ],
-            "hash": "1be67ff056882e6e1f3d71731e29f0ef249416820028bff57b894ae010a162e0"
+            "hash": "c0d87d8ae4bf4259c711f243029ee0965012a282957ae8a1e099809091b83f81"
         }
     },
     "homepage": "https://github.com/j178/leetgo",
